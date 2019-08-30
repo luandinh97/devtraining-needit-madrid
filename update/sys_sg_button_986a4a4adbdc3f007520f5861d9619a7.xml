@@ -15,7 +15,6 @@
         <failure_message>We are sorry but we were unable to create the NeedIt record for you.  Please contact a system administrator.</failure_message>
         <field_name/>
         <jump_to_screen>true</jump_to_screen>
-        <label/>
         <link_label/>
         <link_url/>
         <mail_address/>
@@ -48,4 +47,5 @@
         <type>write_back</type>
         <write_back_action_item display_value="Create new NeedIt">4e2df942dbdc3f007520f5861d961913</write_back_action_item>
     </sys_sg_button>
+    <sys_translated_text action="delete_multiple" query="documentkey=986a4a4adbdc3f007520f5861d9619a7"/>
 </record_update>
